@@ -31,7 +31,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 ### Application
 
-
 <br />
 
 <!--Possible future languages:
