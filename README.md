@@ -1,4 +1,4 @@
-# Guillem Purtí
+# Víctor Peso Keyer
 
 ## `student`
 
