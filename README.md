@@ -27,6 +27,7 @@ Network Enginnering & Aerospace Engineering at 📌UPC
 <img align="left" alt="Adobe Photoshop CC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Adobe Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 
+<br>
 ### Application
 
 <br />
