@@ -10,9 +10,11 @@ Network Enginnering & Aerospace Engineering at 📌UPC
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,matlab,mysql,linux)](https://skillicons.dev)
 <br />
+<!--
 ### Application
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br />
+-->
 
 
 
